@@ -18,6 +18,7 @@
 | [0268-missing-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0268-missing-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Bit Manipulation
 |  |
 | ------- |
