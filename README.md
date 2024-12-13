@@ -72,4 +72,5 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0742-to-lower-case](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
