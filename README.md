@@ -73,4 +73,9 @@
 | ------- |
 | [0344-reverse-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0742-to-lower-case) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
