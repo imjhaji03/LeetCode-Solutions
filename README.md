@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
@@ -58,6 +59,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Matrix
