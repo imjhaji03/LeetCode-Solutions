@@ -48,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0069-sqrtx) |
@@ -104,4 +105,12 @@
 |  |
 | ------- |
 | [2358-number-of-ways-to-split-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
