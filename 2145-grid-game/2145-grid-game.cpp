@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long gridGame(vector<vector<int>>& grid) {
-        long long firstRowRemainSum = accumulate(begin(grid[0]), end(grid[0]), 0LL); //O(col)
+        long long firstRowRemainSum = accumulate(begin(grid[0]), end(grid[0]), 0LL); 
         long long secondRowRemainSum = 0;
         long long minimizedRobot2Sum = LONG_LONG_MAX;
         for(int Robot1Col = 0; Robot1Col < grid[0].size(); Robot1Col++) { 
