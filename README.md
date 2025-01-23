@@ -35,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1502-construct-k-palindrome-strings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0344-reverse-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -146,4 +148,12 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Greedy
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
