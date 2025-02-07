@@ -1,35 +1,53 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {  
-        int start = 0, end = nums.size() - 1;
-        int ans1 = -1, ans2 = -1;
-
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
-            if (nums[mid] == target) {
-                ans1 = mid;
-                end = mid - 1; 
-            } else if (nums[mid] < target) {
+    int leftmost(vector<int> &nums, int target, int n){
+        int start = 0;
+        int end = n-1;
+        int leftmost = -1;
+        while(start<=end){
+            int mid = start+(end-start)/2;
+            if(nums[mid] == target){
+                leftmost = mid;
+                end = mid-1;
+            }
+            else if(nums[mid] < target){
                 start = mid + 1;
-            } else {
+            }
+            else {
                 end = mid - 1;
             }
         }
+        return leftmost;
+    };
 
-        start = 0, end = nums.size() - 1;
 
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
-            if (nums[mid] == target) {
-                ans2 = mid;
-                start = mid + 1; 
-            } else if (nums[mid] < target) {
+    int rightmost(vector<int> &nums, int target, int n){
+        int start = 0;
+        int end = n-1;
+        int rightmost = -1;
+        while(start<=end){
+            int mid = start+(end-start)/2;
+            if(nums[mid] == target){
+                rightmost = mid;
+                start = mid+1;
+            }
+            else if(nums[mid] < target){
                 start = mid + 1;
-            } else {
+            }
+            else {
                 end = mid - 1;
             }
         }
+        return rightmost;
+    };
+    vector<int> searchRange(vector<int>& nums, int target) {
+    int n = nums.size();
+     
+        
+    int left_most = leftmost(nums, target, n);
+    int right_most = rightmost(nums, target, n);
 
-        return {ans1, ans2};
+    return{left_most,right_most};
+
     }
 };
