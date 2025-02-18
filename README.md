@@ -65,6 +65,7 @@
 | [0002-add-two-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0050-powx-n) |
 ## String Matching
 |  |
 | ------- |
