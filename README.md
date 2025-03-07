@@ -82,6 +82,7 @@
 | [0204-count-primes](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [2610-closest-prime-numbers-in-range](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
