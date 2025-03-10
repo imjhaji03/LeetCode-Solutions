@@ -7,16 +7,15 @@ public:
     long long countOfSubstrings(string word, int k) {
         int n = word.length();
 
-        unordered_map<char, int> mp; //to keep count of vowels in a current window
-        //S.C : O(5) constant
+        unordered_map<char, int> mp; 
 
-        //Preprocessing to be able to find index of just next consonant
-        vector<int> nextCons(n); //S.C : O(n)
+
+        vector<int> nextCons(n); 
         int lastConsIdx = n;
-        //T.C : O(n)
+    
         for(int i = n-1; i >=0; i--) {
             nextCons[i] = lastConsIdx;
-            if(!isVowel(word[i])) { //consonant
+            if(!isVowel(word[i])) { 
                 lastConsIdx = i;
             }
         }
@@ -26,7 +25,7 @@ public:
         int j = 0;
         long long count = 0;
         int cons = 0;
-        //T.C : O(2*n) ~ O(n) 
+
         while(j < n) {
             char ch = word[j];
             if(isVowel(ch)) {
@@ -35,7 +34,7 @@ public:
                 cons++;
             }
 
-            //cons must be always == k
+ 
             while(cons > k) {
                 char ch = word[i];
                 if(isVowel(ch)) {
@@ -49,9 +48,9 @@ public:
                 i++;
             }
 
-            while(i < n && mp.size() == 5 && cons == k) { //valid window
-                int idx = nextCons[j]; //it will tell me the next consonant after jth index
-                count += idx - j; //most important part
+            while(i < n && mp.size() == 5 && cons == k) { 
+                int idx = nextCons[j]; 
+                count += idx - j; 
                 char ch = word[i];
                 if(isVowel(ch)) {
                     mp[ch]--;
