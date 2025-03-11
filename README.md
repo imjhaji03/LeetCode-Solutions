@@ -49,6 +49,7 @@
 | [0001-two-sum](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -130,6 +131,7 @@
 | [0742-to-lower-case](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -221,6 +223,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
