@@ -50,6 +50,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
@@ -86,6 +87,7 @@
 | [0075-sort-colors](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [3430-count-days-without-meetings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
 ## Math
 |  |
 | ------- |
