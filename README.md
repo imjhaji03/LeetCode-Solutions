@@ -20,6 +20,7 @@
 | [0204-count-primes](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0879-maximize-distance-to-closest-person](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0879-maximize-distance-to-closest-person) |
@@ -74,6 +75,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
