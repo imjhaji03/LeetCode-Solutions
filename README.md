@@ -138,6 +138,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3001-apply-operations-to-maximize-score](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -204,6 +205,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
@@ -303,6 +305,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sliding Window
 |  |
 | ------- |
