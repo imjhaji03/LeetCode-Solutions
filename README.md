@@ -136,6 +136,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [2998-count-symmetric-integers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -287,6 +288,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
