@@ -131,6 +131,7 @@
 | [0204-count-primes](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [1013-fibonacci-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
@@ -243,6 +244,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 ## String Matching
 |  |
@@ -305,6 +307,7 @@
 | [0368-largest-divisible-subset](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1013-fibonacci-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -376,4 +379,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
