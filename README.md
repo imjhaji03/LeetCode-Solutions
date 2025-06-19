@@ -27,6 +27,7 @@
 | [0268-missing-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0768-partition-labels](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -110,6 +112,7 @@
 | [0283-move-zeroes](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0768-partition-labels](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -124,6 +127,7 @@
 | [0075-sort-colors](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -175,6 +179,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
