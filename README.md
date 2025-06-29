@@ -253,6 +253,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3001-apply-operations-to-maximize-score](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -392,6 +393,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -412,11 +414,13 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
