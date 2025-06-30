@@ -51,6 +51,7 @@
 | [1524-string-matching-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
+| [1635-number-of-good-pairs](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -107,6 +108,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -180,6 +182,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1635-number-of-good-pairs](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
@@ -341,6 +344,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Interactive
