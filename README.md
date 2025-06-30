@@ -50,6 +50,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
