@@ -12,6 +12,10 @@ public:
                     low++;
                     continue;
             }
+            if(nums[low] < nums[high]){
+                ans = min(ans, nums[low]);
+                break;
+            }
             if(nums[low] < nums[mid]){
                 ans = min(ans, nums[low]);
                 low = mid + 1;
