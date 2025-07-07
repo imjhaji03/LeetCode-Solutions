@@ -50,6 +50,7 @@
 | [1293-three-consecutive-odds](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -170,6 +171,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -368,6 +370,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0768-partition-labels) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2681-put-marbles-in-bags](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -392,6 +395,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
