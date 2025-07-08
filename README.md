@@ -59,6 +59,7 @@
 | [1635-number-of-good-pairs](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -173,6 +174,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
@@ -241,6 +243,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
@@ -428,6 +431,7 @@
 | [1170-shortest-common-supersequence](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
