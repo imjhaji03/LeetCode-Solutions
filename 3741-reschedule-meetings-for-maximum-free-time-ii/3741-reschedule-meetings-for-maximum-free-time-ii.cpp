@@ -21,7 +21,6 @@ public:
             maxLeftFree[i] = max(maxLeftFree[i-1], freeArray[i-1]);
         }
 
-
         int result = 0;
         for(int i = 1; i < n; i++) {
             int currEventTime = endTime[i-1] - startTime[i-1]; 
@@ -33,6 +32,6 @@ public:
         }
 
         return result;
-        
+
     }
 };
