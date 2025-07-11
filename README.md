@@ -79,6 +79,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2486-most-frequent-even-element](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [2551-apply-operations-to-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -128,6 +129,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2479-meeting-rooms-iii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2486-most-frequent-even-element](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -178,6 +180,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2479-meeting-rooms-iii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2836-neither-minimum-nor-maximum](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
@@ -324,6 +327,7 @@
 | [2058-concatenation-of-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2479-meeting-rooms-iii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -404,6 +408,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2479-meeting-rooms-iii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
