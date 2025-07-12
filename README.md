@@ -442,6 +442,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -528,6 +529,7 @@
 | ------- |
 | [1013-fibonacci-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Quickselect
 |  |
 | ------- |
