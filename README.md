@@ -273,6 +273,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3930-longest-palindromic-path-in-graph](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -315,6 +316,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3930-longest-palindromic-path-in-graph](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Stack
 |  |
 | ------- |
@@ -454,6 +456,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3930-longest-palindromic-path-in-graph](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Sliding Window
 |  |
 | ------- |
@@ -482,6 +485,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3930-longest-palindromic-path-in-graph](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
