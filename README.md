@@ -354,6 +354,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0328-odd-even-linked-list](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
