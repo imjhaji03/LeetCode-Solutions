@@ -355,6 +355,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0328-odd-even-linked-list](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -362,6 +363,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
