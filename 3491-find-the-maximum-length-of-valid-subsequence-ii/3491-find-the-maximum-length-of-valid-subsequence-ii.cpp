@@ -1,6 +1,3 @@
-//Approach - Using LIS Pattern (Bottom Up)
-//T.C : O(n^2)
-//S.C : O(n*k)
 class Solution {
 public:
     int maximumLength(vector<int>& nums, int k) {
