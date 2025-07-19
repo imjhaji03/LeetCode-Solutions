@@ -50,6 +50,7 @@
 | [1293-three-consecutive-odds](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -305,6 +306,7 @@
 | [0768-partition-labels](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -382,6 +384,7 @@
 ## Trie
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -510,6 +513,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2793-count-the-number-of-complete-components](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
