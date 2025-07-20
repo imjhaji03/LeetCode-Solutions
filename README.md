@@ -67,6 +67,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2058-concatenation-of-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2145-grid-game](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -132,6 +133,7 @@
 | [1635-number-of-good-pairs](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
@@ -312,6 +314,7 @@
 | [1524-string-matching-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -385,6 +388,7 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -393,6 +397,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Greedy
 |  |
