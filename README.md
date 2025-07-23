@@ -315,6 +315,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -337,6 +338,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3001-apply-operations-to-maximize-score](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Simulation
@@ -408,6 +410,7 @@
 | [0768-partition-labels](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
