@@ -120,6 +120,7 @@
 | [0169-majority-element](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -180,6 +181,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -305,6 +307,7 @@
 | [0020-valid-parentheses](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0768-partition-labels) |
