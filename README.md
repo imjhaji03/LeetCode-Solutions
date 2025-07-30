@@ -91,6 +91,7 @@
 | [2486-most-frequent-even-element](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -292,6 +293,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -618,4 +620,8 @@
 | [1258-article-views-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
