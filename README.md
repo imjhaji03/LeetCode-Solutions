@@ -121,6 +121,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -327,6 +328,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -529,6 +531,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Sliding Window
 |  |
