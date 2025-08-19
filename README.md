@@ -91,6 +91,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
@@ -265,6 +266,7 @@
 | [2083-three-divisors](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
