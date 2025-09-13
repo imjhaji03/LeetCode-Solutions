@@ -195,6 +195,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -431,6 +432,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Stack
 |  |
@@ -548,6 +550,7 @@
 | [2486-most-frequent-even-element](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3778-transform-array-by-parity) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Interactive
 |  |
 | ------- |
