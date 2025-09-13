@@ -1,4 +1,4 @@
-class Solution {
+class Solution { //  prefix sum
 public:
 
     int middleindex(vector<int>& nums){
