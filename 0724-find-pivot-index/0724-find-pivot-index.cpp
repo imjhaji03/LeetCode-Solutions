@@ -1,29 +1,24 @@
 class Solution {
 public:
-    int pivotIndex(vector<int>& nums) {
+    int bruteforce(vector<int>& nums){
         int n = nums.size();
-        int totalsum = 0;
-
-        for(int i = 0; i < n; i ++){
-            totalsum += nums[i];
-        }
-
-        int cs = 0;
-        for(int i = 0; i < n; i ++){
-            
-            int ls = cs;
-
-            int rs = totalsum - cs - nums[i];
-
-            if(rs == ls){
-                return i;
+        for(int i = 0; i < n; i++){
+            int lsum = 0;
+            int rsum = 0;
+            for(int j = 0; j < i; j++){
+                lsum += nums[j];
+            }
+            for(int j = i+1; j < n; j++){
+                rsum += nums[j];
             }
 
-            cs += nums[i];
+            if(lsum == rsum ) return i;
         }
-
         return -1;
+    }
+    int pivotIndex(vector<int>& nums) {
 
+        return bruteforce(nums);
         
     }
 };
