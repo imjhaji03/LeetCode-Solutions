@@ -1,21 +1,18 @@
 class Solution {
 public:
-    int missingNumber(vector<int>& nums) {
-        int n = nums.size();
-        int sum = 0;
 
-        int tsum = (n*(n+1))/2;
-
-        int i = 0;
-
-        while(i < n){
-            sum += nums[i];
-
-            i++;
+    int sortingmethod(vector<int> & nums){
+        sort(nums.begin(),nums.end());
+        for(int i = 0; i < nums.size(); i++){
+            if(i == nums[i]) continue;
+            else {
+                return i;
+            }
         }
-
-        return tsum-sum;
-
+        return nums.size(); // corner case -> What if last element is missing.
+    }
+    int missingNumber(vector<int>& nums) {
+        return sortingmethod(nums);
         
     }
 };
