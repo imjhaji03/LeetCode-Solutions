@@ -106,6 +106,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
@@ -192,6 +193,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2486-most-frequent-even-element](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [2689-rearranging-fruits](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
@@ -435,6 +437,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2429-design-a-food-rating-system](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -579,6 +582,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2429-design-a-food-rating-system](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
@@ -757,6 +761,7 @@
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 ## Segment Tree
 |  |
 | ------- |
@@ -781,6 +786,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
