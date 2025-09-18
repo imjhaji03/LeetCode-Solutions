@@ -204,6 +204,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -587,6 +588,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3678-design-task-manager](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 ## Enumeration
 |  |
 | ------- |
@@ -762,6 +764,7 @@
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 ## Segment Tree
 |  |
 | ------- |
@@ -787,6 +790,7 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
