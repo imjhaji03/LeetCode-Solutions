@@ -49,6 +49,7 @@
 | [0498-diagonal-traverse](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -237,6 +238,7 @@
 | [0344-reverse-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -261,6 +263,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0900-reordered-power-of-2](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1019-squares-of-a-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -358,6 +361,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
@@ -558,6 +562,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [1448-maximum-69-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
