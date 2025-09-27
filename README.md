@@ -54,6 +54,7 @@
 | [0679-24-game](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0879-maximize-distance-to-closest-person](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0879-maximize-distance-to-closest-person) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -307,6 +308,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
@@ -781,6 +783,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
