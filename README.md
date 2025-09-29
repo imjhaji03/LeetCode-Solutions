@@ -62,6 +62,7 @@
 | [0940-fruit-into-baskets](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1018-largest-perimeter-triangle](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1185-find-in-mountain-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
@@ -659,6 +660,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
