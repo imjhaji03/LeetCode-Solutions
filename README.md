@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0027-remove-element) |
@@ -226,6 +227,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0027-remove-element) |
@@ -575,6 +577,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [1018-largest-perimeter-triangle](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
