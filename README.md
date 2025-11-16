@@ -339,6 +339,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -485,6 +486,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -607,6 +609,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2032-largest-odd-number-in-string](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
