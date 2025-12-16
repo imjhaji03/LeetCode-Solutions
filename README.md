@@ -137,6 +137,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2643-row-with-maximum-ones](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2665-minimum-time-to-repair-cars](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
@@ -466,6 +467,7 @@
 | [2145-grid-game](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2643-row-with-maximum-ones](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
