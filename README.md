@@ -76,6 +76,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -408,6 +409,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -462,6 +464,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2145-grid-game](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2145-grid-game) |
