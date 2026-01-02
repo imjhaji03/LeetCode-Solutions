@@ -1,5 +1,13 @@
 class Solution:
     def repeatedNTimes(self, nums: List[int]) -> int:
+
+        s = set()
+        for num in nums:
+            if(num in s):
+                return num
+            else:
+                s.add(num)    
+"""
         n = len(nums) // 2
 
         mpp = {}
@@ -10,5 +18,6 @@ class Solution:
         for w in mpp:
             if mpp[w] >= n:
                 return w    
+"""
 
         
