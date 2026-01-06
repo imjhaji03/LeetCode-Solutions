@@ -818,6 +818,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -828,6 +829,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
@@ -847,6 +849,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
@@ -855,6 +858,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
