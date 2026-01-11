@@ -22,6 +22,7 @@
 | [0074-search-a-2d-matrix](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -469,6 +470,7 @@
 | [0036-valid-sudoku](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -549,6 +551,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -736,6 +739,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -849,6 +853,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
