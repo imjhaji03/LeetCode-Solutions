@@ -169,6 +169,7 @@
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3430-count-days-without-meetings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -432,6 +433,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2690-house-robber-iv) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
 | [3643-zero-array-transformation-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
