@@ -179,6 +179,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3379-transformed-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3430-count-days-without-meetings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -619,6 +620,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
