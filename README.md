@@ -193,6 +193,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
@@ -359,6 +360,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3430-count-days-without-meetings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3634-minimum-removals-to-balance-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3778-transform-array-by-parity) |
@@ -851,6 +853,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Queue
 |  |
