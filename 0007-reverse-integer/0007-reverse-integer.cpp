@@ -1,13 +1,18 @@
 class Solution {
 public:
     int reverse(int x) {
-        long ans = 0;
+        long rev = 0;
+        int temp = x;
+        while(temp){
+            rev = rev*10 + temp%10;
+            temp /= 10;
+        }
 
-    while (x != 0) {
-      ans = ans * 10 + x % 10;
-      x /= 10;
-    }
+        if(rev > INT_MAX || rev < INT_MIN){
+            return 0;
+        }
 
-    return (ans < INT_MIN || ans > INT_MAX) ? 0 : ans;
+        return (int)rev;
+        
     }
 };
