@@ -47,6 +47,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -383,6 +384,7 @@
 | [0342-power-of-four](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0679-24-game) |
@@ -808,6 +810,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0826-soup-servings](https://github.com/imjhaji03/LeetCode-Solutions/tree/master/0826-soup-servings) |
